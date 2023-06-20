@@ -79,7 +79,11 @@ _Below is an example of how you can instruct your audience on installing and set
    
 4. Move to /usr/bin
     ```sh
-    sudo chmod +x subsearch && mv subsearch /usr/bin/
+    sudo chmod +x subsearch
+    ```
+
+    ```sh
+    sudo mv subsearch /usr/bin/
     ```
     
 <br />
