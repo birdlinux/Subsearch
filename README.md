@@ -74,7 +74,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 3. Building the binary
    ```sh
-   go build src/subsearch.go
+   go build release/subsearch.go
    ```
    
 4. Move to /usr/bin
