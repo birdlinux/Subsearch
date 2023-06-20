@@ -48,6 +48,7 @@
 <center> <h1 align="left" id="about">About</h1> </center>
 
 Subsearch is an innovative project designed to revolutionize DNS enumeration, providing a powerful tool for effortlessly discovering and mapping subdomains. With its advanced capabilities and streamlined efficiency, Subsearch simplifies the process of subdomain analysis, offering comprehensive visibility into hidden domains.
+
 ![image](https://github.com/birdlinux/Subsearch/assets/123122904/d02deca4-9827-4760-8ba6-6b5d4a68c93a)
 
 
